@@ -1,0 +1,64 @@
+/* 全体のスタイル */
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 1em;
+  color: #333;
+}
+
+/* ヘッダーのスタイル */
+header {
+  padding: 1em 0;
+  text-align: center;
+  background-color: #eedcb3;
+}
+
+header h1 {
+  font-size: 2em;
+}
+
+/* メインコンテンツのスタイル */
+main {
+  margin: 2em 0;
+}
+
+main strong {
+  display: block;
+  margin: 1em 0;
+  font-size: 1.5em;
+}
+
+main p {
+  line-height: 1.6;
+}
+
+main div {
+  margin: 1em 0;
+}
+
+main ul {
+  padding-left: 20px;
+}
+
+main ul li {
+  margin: 0.5em 0;
+}
+
+main a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+main a:hover {
+  text-decoration: underline;
+}
+
+/* フッターのスタイル */
+footer {
+  padding: 1em 0;
+  text-align: center;
+  background-color: #f5f5f5;
+}
+
+footer p {
+  margin: 0;
+}
